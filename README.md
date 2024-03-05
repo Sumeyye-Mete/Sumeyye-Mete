@@ -29,7 +29,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="200" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming, solving problems and learning new things<br/><br/>
  ☕ &emsp; Fuelled by tea and passion for frontend development, turning tea into code.<br/><br/>
@@ -61,7 +61,7 @@
 
 <br/>
 
-## Top Open Source -
+## Top Open Source 
 [![dream-app](https://github-readme-stats.vercel.app/api/pin/?username=Sumeyye-Mete&repo=dream-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sumeyye-Mete/dream-app)
 [![capital-guess-game](https://github-readme-stats.vercel.app/api/pin/?username=Sumeyye-Mete&repo=capital-guess-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sumeyye-Mete/capital-guess-game)
 [![multiselect-menu-rick-and-morty](https://github-readme-stats.vercel.app/api/pin/?username=Sumeyye-Mete&repo=multiselect-menu-rick-and-morty&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sumeyye-Mete/multiselect-menu-rick-and-morty)
