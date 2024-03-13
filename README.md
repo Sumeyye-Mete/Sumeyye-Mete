@@ -62,10 +62,12 @@
 <br/>
 
 ## Top Open Source 
+[![music-player-app](https://github-readme-stats.vercel.app/api/pin/?username=Sumeyye-Mete&repo=music-player-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sumeyye-Mete/music-player-app)
+[![shop-and-shop](https://github-readme-stats.vercel.app/api/pin/?username=Sumeyye-Mete&repo=shop-and-shop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sumeyye-Mete/shop-and-shop)
+[![multiselect-menu-rick-and-morty](https://github-readme-stats.vercel.app/api/pin/?username=Sumeyye-Mete&repo=multiselect-menu-rick-and-morty&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sumeyye-Mete/multiselect-menu-rick-and-morty)
 [![dream-app](https://github-readme-stats.vercel.app/api/pin/?username=Sumeyye-Mete&repo=dream-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sumeyye-Mete/dream-app)
 [![capital-guess-game](https://github-readme-stats.vercel.app/api/pin/?username=Sumeyye-Mete&repo=capital-guess-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sumeyye-Mete/capital-guess-game)
-[![multiselect-menu-rick-and-morty](https://github-readme-stats.vercel.app/api/pin/?username=Sumeyye-Mete&repo=multiselect-menu-rick-and-morty&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sumeyye-Mete/multiselect-menu-rick-and-morty)
-[![music-player-app](https://github-readme-stats.vercel.app/api/pin/?username=Sumeyye-Mete&repo=music-player-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sumeyye-Mete/music-player-app)
+
 <p align="left">
   <a href="https://github.com/Sumeyye-Mete?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
